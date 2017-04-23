@@ -79,8 +79,8 @@ CLLocation *location;
         
         MyCustomPointAnnotation* point1 = [[MyCustomPointAnnotation alloc] init];
         point1.coordinate = CLLocationCoordinate2DMake(location.coordinate.latitude+0.001, location.coordinate.longitude+0.001);
-        point1.title = @"Where am I?";
-        point1.subtitle = @"I'm here!!!";
+        point1.title = @"Travel with me";
+        point1.subtitle = @"Tianchen Zhang";
         [self.mapView addAnnotation:point1];
         
     } failure:^(NSURLSessionTask *operation, NSError *error) {

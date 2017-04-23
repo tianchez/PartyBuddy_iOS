@@ -10,5 +10,11 @@
 
 @interface ToJoinViewController : ViewController
 @property (weak, nonatomic) IBOutlet UIButton *CancelButton;
+@property (weak, nonatomic) IBOutlet UIButton *joinButton;
+@property (weak, nonatomic) IBOutlet UIImageView *avatarImageView;
+@property (weak, nonatomic) IBOutlet UILabel *nameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *eventNameLabel;
+@property (weak, nonatomic) IBOutlet UILabel *addressLabel;
+@property (weak, nonatomic) IBOutlet UILabel *descriptionLabel;
 
 @end
