@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BF90CFEE8E309E763EF9D2915A3AFB4F45AE914E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BF90CFEE8E309E763EF9D2915A3AFB4F45AE914E" : 9223372036854775807,
+    "9AAF8929E9E6506DC4333E287B2BDB322A966F38" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "679772D0-5DF3-4BA8-8306-BB6D9DBFAC19",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BF90CFEE8E309E763EF9D2915A3AFB4F45AE914E" : "PartyBuddy_iOS\/",
+    "9AAF8929E9E6506DC4333E287B2BDB322A966F38" : "MyCustomPinProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PartyBuddy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PartyBuddy.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tlextrait\/MyCustomPinProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AAF8929E9E6506DC4333E287B2BDB322A966F38"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tianchez\/PartyBuddy_iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF90CFEE8E309E763EF9D2915A3AFB4F45AE914E"
+    }
+  ]
+}

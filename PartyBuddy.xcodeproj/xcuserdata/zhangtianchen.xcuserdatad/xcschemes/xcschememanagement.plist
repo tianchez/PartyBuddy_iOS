@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>PartyBuddy.xcscheme</key>
+		<key>SlideMenuControllerOC.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>B8F3281A1EABCBB100AC8E46</key>
+		<key>6C99A8971C81EFD400135ADD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
