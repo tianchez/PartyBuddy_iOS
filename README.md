@@ -10,4 +10,8 @@ Does that occur to you that sometimes you spotted a party nearby and want to get
 
 To make this app, we split the task into front-end(Objective-C) and back-end (Java), and linked the whole app together with AWS and restful-web-service. 
 
+![alt text](https://github.com/tianchez/PartyBuddy_iOS/raw/master/PartyBuddy_Screenshot0.jpg)
+![alt text](https://github.com/tianchez/PartyBuddy_iOS/raw/master/PartyBuddy_Screenshot1.jpg)
+![alt text](https://github.com/tianchez/PartyBuddy_iOS/raw/master/PartyBuddy_Screenshot2.jpg)
+
 
